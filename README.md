@@ -1,5 +1,5 @@
 # Pi Sync
-Repository for my Syncronisation program written in python
+Repository for my Syncronisation program written in python, I use cx_Freeze to make an .exe
 
 # How to Use for you ?
 I made this program for my computer, but with some minor change, you will be able to use it !
